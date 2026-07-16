@@ -1,0 +1,5318 @@
+{
+  "monitoringFrequency": {
+    "insightsData": {
+      "peerCountComparisonPercent": 30,
+      "selfCountComparisonPercent": 40,
+      "peerDurationAvgComparison": 30,
+      "selfMonitorFromAlertPercent": 10,
+      "selfMonitorFromLiveMonitoringPercent": 20
+    },
+    "selfActionData": [
+      {
+        "date": "2024-09-30",
+        "timeInterval": "00:00-00:59",
+        "totalCount": 0,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-29",
+        "timeInterval": "01:00-01:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-28",
+        "timeInterval": "02:00-02:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-27",
+        "timeInterval": "03:00-03:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-26",
+        "timeInterval": "04:00-04:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 5,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-25",
+        "timeInterval": "05:00-05:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-24",
+        "timeInterval": "06:00-06:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-23",
+        "timeInterval": "07:00-07:59",
+        "totalCount": 0,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 0,
+            "totalDuration": 0,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-22",
+        "timeInterval": "08:00-08:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-21",
+        "timeInterval": "09:00-09:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-20",
+        "timeInterval": "10:00-10:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-19",
+        "timeInterval": "11:00-11:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 5,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-18",
+        "timeInterval": "12:00-12:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-19",
+        "timeInterval": "13:00-13:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-18",
+        "timeInterval": "14:00-14:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-17",
+        "timeInterval": "15:00-15:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-16",
+        "timeInterval": "16:00-16:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-15",
+        "timeInterval": "17:00-17:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-14",
+        "timeInterval": "18:00-18:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-13",
+        "timeInterval": "19:00-19:59",
+        "totalCount": 90,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-12",
+        "timeInterval": "20:00-20:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-11",
+        "timeInterval": "21:00-21:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 5,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 37,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-10",
+        "timeInterval": "22:00-22:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 65,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 70,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-09",
+        "timeInterval": "23:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-08",
+        "timeInterval": "22:00-22:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-07",
+        "timeInterval": "23:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-06",
+        "timeInterval": "19:00-19:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-09-05",
+        "timeInterval": "20:00-20:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 65,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-02",
+        "timeInterval": "02:00-02:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-01",
+        "timeInterval": "03:00-03:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-02",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-01",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-31",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-30",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 55,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-29",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-28",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-27",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 55,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-26",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-25",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 55,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-24",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-23",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-22",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-21",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-20",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 90,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-19",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-18",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 5,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 37,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-17",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 65,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 70,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-16",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-15",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-14",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-13",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-12",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 65,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-11",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-10",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-09",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-08",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-07",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-06",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 17,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-05",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-04",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-03",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-02",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-01",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-30",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-29",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-28",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-27",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-26",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 65,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-25",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-24",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-23",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-22",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-21",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 35,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 7,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 8,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 5,
+            "totalDuration": 20,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 6,
+            "totalDuration": 30,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 5,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 4,
+            "totalDuration": 25,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-20",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 90,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-19",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 18,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 7,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-18",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 5,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 37,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-17",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 65,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 70,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 20,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-16",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-15",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-14",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-13",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-12",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 65,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-11",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-10",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-09",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-08",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-07",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 32,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-06",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 17,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-05",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-04",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 60,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 9,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 9,
+            "totalDuration": 52,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 9,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-03",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 28,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-02",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-01",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-31",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-30",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 80,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-29",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 13,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-28",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 75,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 13,
+            "totalDuration": 42,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 33,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 47,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 62,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-27",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 40,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 14,
+            "totalDuration": 32,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 11,
+            "totalDuration": 48,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 58,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-26",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 85,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 15,
+            "totalDuration": 45,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 12,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 16,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 14,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 13,
+            "totalDuration": 65,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 40,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-25",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 65,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 55,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 30,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 8,
+            "totalDuration": 42,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 10,
+            "totalDuration": 50,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 12,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-24",
+        "timeInterval": "00:00-23:59",
+        "totalCount": 70,
+        "actions": [
+          {
+            "name": "Voice Monitor",
+            "count": 12,
+            "totalDuration": 38,
+            "source": "alert"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 60,
+            "source": "alert"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 15,
+            "totalDuration": 35,
+            "source": "alert"
+          },
+          {
+            "name": "Voice Monitor",
+            "count": 10,
+            "totalDuration": 45,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Digital Monitor",
+            "count": 11,
+            "totalDuration": 55,
+            "source": "live monitoring"
+          },
+          {
+            "name": "Screen Monitor",
+            "count": 11,
+            "totalDuration": 35,
+            "source": "live monitoring"
+          }
+        ]
+      }
+    ],
+    "otherSupervisorActionData": [
+      {
+        "date": "2024-09-30",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-29",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 60,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-28",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 50,
+        "avgCount": 5
+      },
+      {
+        "date": "2024-09-27",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-26",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 60,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-25",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 50,
+        "avgCount": 5
+      },
+      {
+        "date": "2024-09-24",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-23",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 75,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-22",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-21",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 55,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-20",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-19",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 78,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-18",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 74,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-17",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-16",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-15",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-14",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 77,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-13",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 69,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-12",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 88,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-11",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 70,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-10",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 84,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-09",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 81,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-08",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-07",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 66,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-06",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 63,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-09-05",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 86,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-02",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 73,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-09-01",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-31",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 75,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-30",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 68,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-29",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-28",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 60,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-27",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 50,
+        "avgCount": 5
+      },
+      {
+        "date": "2024-08-26",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-25",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 75,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-24",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-23",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 55,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-22",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-21",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 78,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-20",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 74,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-19",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-18",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-17",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-16",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 77,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-15",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 69,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-14",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 88,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-13",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 70,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-12",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 84,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-11",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 81,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-10",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-09",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 66,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-08",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 63,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-08-07",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 86,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-06",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 51,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-05",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 78,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-04",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 73,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-03",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-02",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 75,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-08-01",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 68,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-31",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 72,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-30",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 81,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-29",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 87,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-28",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 66,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-27",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 74,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-26",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 63,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-25",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 69,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-24",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 76,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-23",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-22",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 73,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-21",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-20",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 62,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-19",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 71,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-18",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 84,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-17",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 77,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-16",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-15",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 88,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-14",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 65,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-13",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 76,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-12",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-11",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 72,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-10",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 68,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-09",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 74,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-08",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 67,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-07",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 71,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-06",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 64,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-07-05",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-04",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-03",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 70,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-02",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 86,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-07-01",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 77,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-30",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 64,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-29",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 73,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-28",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 88,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-27",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-26",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 67,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-25",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 75,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-24",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 80,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-23",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 62,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-22",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 77,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-21",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 69,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-20",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 82,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-19",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 78,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-18",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 71,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-17",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 85,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-16",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 73,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-15",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 60,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-14",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 64,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-13",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 84,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-12",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 78,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-11",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 70,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-10",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 87,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-09",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 74,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-08",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 81,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-07",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 69,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-06",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 79,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-05",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 83,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-04",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 76,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-03",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 66,
+        "avgCount": 2
+      },
+      {
+        "date": "2024-06-02",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 72,
+        "avgCount": 3
+      },
+      {
+        "date": "2024-06-01",
+        "timeInterval": "00:00-23:59",
+        "totalOtherSupervisors": 30,
+        "totalDuration": 300,
+        "totalCount": 87,
+        "avgCount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+.table-container {
+    .table-rounded {
+        border-radius: 10px;
+        border: 1px solid #D2D8DB;
+        border-collapse: separate;
+        overflow: hidden;
+        margin-top: 30px;
+    }
+
+    .table tbody tr td {
+        padding-left: 25px;
+    }
+
+    .table thead tr th {
+        text-transform: uppercase;
+        padding-left: 20px;
+        vertical-align: middle;
+    }
+
+    tbody tr:nth-child(2n) {
+        background-color: #F5F8FA;
+    }
+
+    .table-body-scroll {
+        display: block;
+        max-height: 320px;
+        overflow-y: auto;
+        width: 100%;
+    }
+
+    thead,
+    .table-body-scroll tr {
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+    }
+
+    .best-call-table {
+        .sr-no {
+            color: #9AA3B2;
+            font-weight: 700;
+            width: 60px;
+        }
+
+        .ticket-cell {
+            font-weight: 600;
+            color: #4B5563;
+            white-space: nowrap;
+            width: 140px;
+        }
+
+        .agent-cell {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            white-space: nowrap;
+            width: 160px;
+
+            .agent-avatar {
+                width: 1.875rem;
+                height: 1.875rem;
+                border-radius: 0.5rem;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                color: #fff;
+                font-size: 0.6875rem;
+                font-weight: 700;
+                flex-shrink: 0;
+            }
+
+            .agent-name {
+                font-weight: 700;
+            }
+        }
+
+        .summary-cell {
+            color: #5B6472;
+            line-height: 1.5;
+            min-width: 260px;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .score-badge {
+            display: inline-block;
+            font-weight: 700;
+            border-radius: 6px;
+            padding: 3px 9px;
+            font-size: 0.8125rem;
+            background: #F1F3F7;
+            color: #5B6472;
+
+            &--high {
+                background: #EEFBF3;
+                color: #1F9D57;
+            }
+
+            &--mid {
+                background: #EAF1FE;
+                color: #2565E6;
+            }
+        }
+
+        .best-call-award-btn {
+            border: 1px solid #CBD2DC;
+            background: #fff;
+            color: #2565E6;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.75rem;
+            padding: 6px 12px;
+            cursor: pointer;
+            font-family: inherit;
+            transition: background 0.15s;
+            white-space: nowrap;
+
+            &:hover:not(:disabled) {
+                background: #F3F7FF;
+            }
+
+            &--awarded,
+            &:disabled {
+                border-color: #B7E4C7;
+                color: #1F9D57;
+                background: #EEFBF3;
+                cursor: default;
+            }
+        }
+    }
+}
+
+.sol-modal-wrapper .mat-mdc-dialog-actions .modal-footer-wrapper {
+    padding: 0px !important;
+}

@@ -1,0 +1,5890 @@
+{
+   "interventionImpact": {
+      "insightsData": {
+         "sentiment": {
+            "selfImprovedPercent": 15,
+            "peerImprovedComparisonPercent": 25
+         },
+         "selfCountComparisonPercent": 22,
+         "selfInterventionFromAlertPercent": 35,
+         "selfInterventionFromLiveMonitoringPercent": 28
+      },
+      "interventionData": [
+         {
+            "date": "2024-09-30",
+            "timeInterval": "00:00-00:59",
+            "totalcount": 0,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 0,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-29",
+            "timeInterval": "01:00-01:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-28",
+            "timeInterval": "02:00-02:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-27",
+            "timeInterval": "03:00-03:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-26",
+            "timeInterval": "04:00-04:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 15,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-25",
+            "timeInterval": "05:00-05:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-24",
+            "timeInterval": "06:00-06:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-23",
+            "timeInterval": "07:00-07:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-22",
+            "timeInterval": "08:00-08:59",
+            "totalcount": 78,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-21",
+            "timeInterval": "09:00-09:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-20",
+            "timeInterval": "10:00-10:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-19",
+            "timeInterval": "11:00-11:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-18",
+            "timeInterval": "12:00-12:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-17",
+            "timeInterval": "13:00-13:59",
+            "totalcount": 60,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-16",
+            "timeInterval": "14:00-14:59",
+            "totalcount": 56,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-15",
+            "timeInterval": "15:00-15:59",
+            "totalcount": 61,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-14",
+            "timeInterval": "16:00-16:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 1,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-13",
+            "timeInterval": "17:00-17:59",
+            "totalcount": 51,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 2,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-12",
+            "timeInterval": "18:00-18:59",
+            "totalcount": 64,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-11",
+            "timeInterval": "19:00-19:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-10",
+            "timeInterval": "20:00-20:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 4,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-09",
+            "timeInterval": "21:00-21:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-08",
+            "timeInterval": "22:00-22:59",
+            "totalcount": 47,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-07",
+            "timeInterval": "23:00-23:59",
+            "totalcount": 53,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-06",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-05",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-02",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-09-01",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-31",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-30",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 86,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-29",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-28",
+            "timeInterval": "00:00-00:59",
+            "totalcount": 0,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 0,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 0,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 0,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-27",
+            "timeInterval": "01:00-01:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-26",
+            "timeInterval": "02:00-02:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-25",
+            "timeInterval": "03:00-03:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-24",
+            "timeInterval": "04:00-04:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 15,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-23",
+            "timeInterval": "05:00-05:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-22",
+            "timeInterval": "06:00-06:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-21",
+            "timeInterval": "07:00-07:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-20",
+            "timeInterval": "08:00-08:59",
+            "totalcount": 78,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-19",
+            "timeInterval": "09:00-09:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-18",
+            "timeInterval": "10:00-10:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-17",
+            "timeInterval": "11:00-11:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-16",
+            "timeInterval": "12:00-12:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-15",
+            "timeInterval": "13:00-13:59",
+            "totalcount": 60,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-14",
+            "timeInterval": "14:00-14:59",
+            "totalcount": 56,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-13",
+            "timeInterval": "15:00-15:59",
+            "totalcount": 61,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-12",
+            "timeInterval": "16:00-16:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 1,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-11",
+            "timeInterval": "17:00-17:59",
+            "totalcount": 51,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 2,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-10",
+            "timeInterval": "18:00-18:59",
+            "totalcount": 64,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-09",
+            "timeInterval": "19:00-19:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-08",
+            "timeInterval": "20:00-20:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 4,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-07",
+            "timeInterval": "21:00-21:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-06",
+            "timeInterval": "22:00-22:59",
+            "totalcount": 47,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-05",
+            "timeInterval": "23:00-23:59",
+            "totalcount": 53,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-04",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-03",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-02",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-08-01",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-31",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-30",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-29",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-28",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 86,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-27",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-26",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-25",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-24",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-23",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-22",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-21",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-20",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 78,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-19",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-18",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-17",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-16",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-15",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 60,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-14",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 56,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-13",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 61,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-12",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 1,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-11",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 51,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 2,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-10",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 64,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-09",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-08",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 4,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-07",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-06",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 47,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-05",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 53,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-04",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-03",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-02",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-07-01",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-30",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-29",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-28",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 86,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-27",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-26",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-25",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-24",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-23",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 80,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-22",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-21",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 77,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-20",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 78,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-19",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 5,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-18",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-17",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 72,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-16",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-15",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 60,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-14",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 56,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-13",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 61,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-12",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 1,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 10,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-11",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 51,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 2,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-10",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 64,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-09",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 50,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-08",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 59,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 3,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 4,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-07",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-06",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 47,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 5,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-05",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 53,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 4,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 2,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 3,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-04",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 6,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-03",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-02",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-06-01",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 8,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-05-31",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 81,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-05-30",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 79,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 12,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 13,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 6,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-05-29",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 84,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-05-28",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 86,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 14,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 7,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 9,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 8,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 10,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 13,
+                  "source": "live monitoring"
+               }
+            ]
+         },
+         {
+            "date": "2024-05-27",
+            "timeInterval": "00:00-23:59",
+            "totalcount": 82,
+            "outcomes": [
+               {
+                  "name": "Improved",
+                  "count": 13,
+                  "source": "alert"
+               },
+               {
+                  "name": "Declined",
+                  "count": 10,
+                  "source": "alert"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 6,
+                  "source": "alert"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 11,
+                  "source": "alert"
+               },
+               {
+                  "name": "Improved",
+                  "count": 7,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Declined",
+                  "count": 12,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Neutral",
+                  "count": 9,
+                  "source": "live monitoring"
+               },
+               {
+                  "name": "Unmonitored Sentiment",
+                  "count": 14,
+                  "source": "live monitoring"
+               }
+            ]
+         }
+      ]
+   }
+}

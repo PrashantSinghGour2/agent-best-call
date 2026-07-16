@@ -1,22 +1,16 @@
 {
-  "name": "best-agent-call",
+  "name": "agent-best-call-workspace",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Monorepo containing the Best Call of the Week frontend (Angular) and backend (Node.js/Express + AWS Bedrock)",
+  "private": true,
   "scripts": {
-    "start": "node index.js",
-    "dev": "node --watch index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:backend": "cd Backend && npm start",
+    "dev:backend": "cd Backend && npm run dev",
+    "start:frontend": "cd Frontend && ng serve",
+    "start": "concurrently \"npm run dev:backend\" \"npm run start:frontend\"",
+    "install:all": "cd Backend && npm install"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "Node.js service that invokes AWS Bedrock (Claude) to analyze agent calls.",
-  "type": "module",
-  "dependencies": {
-    "@aws-sdk/client-bedrock-runtime": "^3.840.0",
-    "cors": "^2.8.5",
-    "dotenv": "^17.0.1",
-    "express": "^5.1.0",
-    "morgan": "^1.10.0"
+  "devDependencies": {
+    "concurrently": "^8.2.0"
   }
 }
