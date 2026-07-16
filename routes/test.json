@@ -1,0 +1,192 @@
+{
+    "week_summary": {
+        "total_calls_analyzed": 20,
+        "successfully_scored": 20,
+        "failed": 0,
+        "total_agents": 10,
+        "eligible_calls": 17
+    },
+    "best_calls_per_agent": [
+        {
+            "contact_id": "CALL-2026-0007",
+            "agent_id": "AGT-104",
+            "agent_name": "David Kim",
+            "call_date": "2026-07-08",
+            "queue": "Billing",
+            "scores": {
+                "sentiment_recovery": 9,
+                "first_contact_resolution": 10,
+                "customer_effort": 10,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 7
+            },
+            "weighted_score": 9.45,
+            "contactSummary": "Agent resolved a double charge issue by immediately reversing the duplicate charge and expediting the refund.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0001",
+            "agent_id": "AGT-101",
+            "agent_name": "Meena Rao",
+            "call_date": "2026-07-08",
+            "queue": "Billing",
+            "scores": {
+                "sentiment_recovery": 9,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 9.3,
+            "contactSummary": "Agent resolved a long-standing refund issue by manually pushing through the refund while on the call, earning the customer's trust.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0005",
+            "agent_id": "AGT-103",
+            "agent_name": "Sarah Chen",
+            "call_date": "2026-07-09",
+            "queue": "Sales",
+            "scores": {
+                "sentiment_recovery": 9,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 9.3,
+            "contactSummary": "Agent saved the customer by proactively analyzing usage and moving them to a cheaper plan, earning trust.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0015",
+            "agent_id": "AGT-108",
+            "agent_name": "Liam O'Brien",
+            "call_date": "2026-07-09",
+            "queue": "Tech Support",
+            "scores": {
+                "sentiment_recovery": 9,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 7
+            },
+            "weighted_score": 9.25,
+            "contactSummary": "Agent quickly diagnosed a VPN conflict, provided a temporary fix, and scheduled a permanent update to resolve the issue.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0013",
+            "agent_id": "AGT-107",
+            "agent_name": "Aisha Ali",
+            "call_date": "2026-07-09",
+            "queue": "Billing",
+            "scores": {
+                "sentiment_recovery": 8,
+                "first_contact_resolution": 10,
+                "customer_effort": 10,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 9.2,
+            "contactSummary": "Agent clearly explained a proration on the customer's bill and offered to send a written breakdown.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0003",
+            "agent_id": "AGT-102",
+            "agent_name": "Arjun Patel",
+            "call_date": "2026-07-08",
+            "queue": "Tech Support",
+            "scores": {
+                "sentiment_recovery": 8,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 9,
+            "contactSummary": "Agent diagnosed and resolved a router firmware issue causing frequent reboots, providing clear instructions.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0009",
+            "agent_id": "AGT-105",
+            "agent_name": "Priya Sharma",
+            "call_date": "2026-07-09",
+            "queue": "Tech Support",
+            "scores": {
+                "sentiment_recovery": 8,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 8,
+                "aht_within_range": 8
+            },
+            "weighted_score": 8.9,
+            "contactSummary": "Agent quickly resolved an account lockout issue and suggested setting up a passkey to prevent future lockouts.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0019",
+            "agent_id": "AGT-110",
+            "agent_name": "Noah Williams",
+            "call_date": "2026-07-09",
+            "queue": "Retention",
+            "scores": {
+                "sentiment_recovery": 7,
+                "first_contact_resolution": 10,
+                "customer_effort": 9,
+                "no_alerts_fired": 10,
+                "empathy_language": 8,
+                "aht_within_range": 8
+            },
+            "weighted_score": 8.6,
+            "contactSummary": "Agent analyzed usage to recommend a cheaper plan and explained potential overages, downgrading the customer.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0011",
+            "agent_id": "AGT-106",
+            "agent_name": "Marcus Johnson",
+            "call_date": "2026-07-08",
+            "queue": "Retention",
+            "scores": {
+                "sentiment_recovery": 8,
+                "first_contact_resolution": 9,
+                "customer_effort": 8,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 8.55,
+            "contactSummary": "Agent acknowledged the customer's frustration over outages and offered incentives to retain them for one more billing cycle.",
+            "eligible_for_best_call": true
+        },
+        {
+            "contact_id": "CALL-2026-0017",
+            "agent_id": "AGT-109",
+            "agent_name": "Emma Rossi",
+            "call_date": "2026-07-08",
+            "queue": "Sales",
+            "scores": {
+                "sentiment_recovery": 8,
+                "first_contact_resolution": 9,
+                "customer_effort": 8,
+                "no_alerts_fired": 10,
+                "empathy_language": 9,
+                "aht_within_range": 8
+            },
+            "weighted_score": 8.55,
+            "contactSummary": "Agent retained a price-shopping customer by explaining included features and offering a discounted trial period.",
+            "eligible_for_best_call": true
+        }
+    ],
+    "failures": []
+}
